@@ -23,3 +23,5 @@
 
 如果出现操作无效的情况，打开安全与隐私，删除Gem Menu for OneNote.app的辅助功能权限，再重新导入。
 ![img_4.png](img_4.png)
+
+或者尝试重新安装官方正版，再用被 cracked 的 app 进行覆盖。
