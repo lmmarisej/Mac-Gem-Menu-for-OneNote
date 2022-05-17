@@ -18,3 +18,8 @@
 ![img_3.png](img_3.png)
 
 ![img_2.png](img_2.png)
+
+### 注意
+
+如果出现操作无效的情况，打开安全与隐私，删除Gem Menu for OneNote.app的辅助功能权限，再重新导入。
+![img_4.png](img_4.png)
